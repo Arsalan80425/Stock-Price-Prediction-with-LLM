@@ -27,7 +27,7 @@ Stock_Price_Prediction_with_LLM/
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Stock_Price_Prediction_with_LLM.git
+   git clone https://github.com/Arsalan80425/Stock_Price_Prediction_with_LLM.git
    cd Stock_Price_Prediction_with_LLM
    ```
 
